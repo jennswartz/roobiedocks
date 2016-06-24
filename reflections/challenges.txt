@@ -1,0 +1,7 @@
+I started off taking the Intro to Programming Nanodegree and learning Python, and I found
+digging into Python with no programming background very challenging.  With some basic 
+understanding of programming now, I am hoping that the learning curve will be less steep 
+learning Ruby.  
+-Are there any outside resources that you recommend for studying along with the course for 
+learning Ruby?
+-Do you have any recommendations for someone changing careers?
